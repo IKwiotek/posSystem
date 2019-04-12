@@ -22,5 +22,6 @@ public:
 private:
 	bool isPreCooked;
 };
-#endif 
+
+#endif Frozen_Food_Item_H
 

@@ -33,6 +33,4 @@ private:
 	int day;
 };
 
-#endif 
-
-/*ProduceItem(string name, string category, float price, int quantity, string countryOfOrigin);*/
+#endif Produce_Item_H

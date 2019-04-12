@@ -23,4 +23,4 @@ private:
 	string sourceAnimal;
 };
 
-#endif 
+#endif Meat_Item_H

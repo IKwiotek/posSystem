@@ -22,4 +22,5 @@ public:
 private:
 	string brand;
 };
-#endif 
+
+#endif Canned_Item_H

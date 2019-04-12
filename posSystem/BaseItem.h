@@ -30,4 +30,4 @@ private:
 	int quantity;
 };
 
-#endif // BaseText_H
+#endif Base_Item_H
