@@ -1,16 +1,16 @@
-Overview
+##Overview
 The design plan is divided into three sections. Each section corresponds to a specific user requirement defined by the business. The list of sections is as follows.
 
 
-Section One
+#Section One
 Program Interaction
 
 This section includes considerations for interacting with the point of sale system. 
-Program Entry Point
-How to get the system source code.
-Best practices and possible errors for user data input.
+-Program Entry Point
+-How to get the system source code.
+-Best practices and possible errors for user data input.
 
-Section Two 
+#Section Two 
 Program Functionality
 
 Inventory Search
@@ -21,10 +21,10 @@ Update Existing Items
 Locate Expired Items
 Exit Program
 
-Section Three 
+#Section Three 
 Program Data Structure
 
-	Base Class
+Base Class
 BaseItem
 	
 Derived Classes 
